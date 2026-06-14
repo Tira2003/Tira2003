@@ -14,19 +14,16 @@ I'm a developer focused on creating clean, efficient code and meaningful project
 - Solving complex problems with elegant solutions
 - Continuous learning and professional growth
 
-**Pronouns:** [Add your pronouns]
-
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript, Python, [Your languages]
+**Languages:** JavaScript, Python, java,Typescript
+**Frontend:** React, Next
 
-**Frontend:** React, [Your frameworks/libraries]
+**Backend:** Node.js, SpringBoot
 
-**Backend:** Node.js, [Your frameworks]
-
-**Tools & Platforms:** Git, Docker, [Your tools]
+**Tools & Platforms:** Git, Docker
 
 ---
 
@@ -44,16 +41,6 @@ I'm a developer focused on creating clean, efficient code and meaningful project
 
 ---
 
-## 👯 Looking to Collaborate
-
-I'm interested in collaborating on projects related to:
-- [Areas of interest]
-- [Areas of interest]
-
-Feel free to reach out if you have an interesting project in mind!
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tira2003&theme=dark&show_icons=true)
@@ -65,15 +52,10 @@ Feel free to reach out if you have an interesting project in mind!
 ## 📫 Connect With Me
 
 - **GitHub:** [@Tira2003](https://github.com/Tira2003)
-- **Email:** [your_email@example.com]
-- **LinkedIn:** [Your LinkedIn profile]
-- **Twitter:** [@your_handle]
+- **Email:** [tirangaliyanage@gmail.com]
+- **LinkedIn:** [[Tiranga Liyanage](https://www.linkedin.com/in/tiranga-liyanage/)]
+- **Twitter:** [@tiranga2003]
 
----
-
-## ⚡ Fun Fact
-
-[Share something interesting about yourself - a hobby, a unique skill, or a fun achievement!]
 
 ---
 
