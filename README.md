@@ -1,57 +1,80 @@
+# Hey there! 👋 I'm Tira2003
 
+**Full Stack Developer | Tech Enthusiast | Open Source Contributor**
 
-<!--
-**Tira2003/Tira2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there 👋
-
-<!--
-**Tira2003/Tira2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Welcome to my GitHub profile! I'm passionate about building scalable applications, learning new technologies, and contributing to open-source projects.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Welcome to my page! I'm a passionate developer and technology enthusiast who loves learning new things and building creative projects.
+I'm a developer focused on creating clean, efficient code and meaningful projects. I enjoy:
+- Building web applications and exploring new frameworks
+- Contributing to open-source communities
+- Solving complex problems with elegant solutions
+- Continuous learning and professional growth
 
-😄 Pronouns: [Your pronouns here]
-
----
-
-## What I'm Up To
-
-- 🔭 Currently working on: **[Describe your current projects]**
-- 🌱 Currently learning: **[Technologies or topics you're learning]**
-- 👯 Looking to collaborate on: **[Projects or areas for collaboration]**
-- 🤔 Looking for help with: **[Describe what you need help with, if anything]**
+**Pronouns:** [Add your pronouns]
 
 ---
 
-## Ask Me About
+## 💻 Tech Stack
 
-- 💬 [Topics you are comfortable discussing or helping with]
+**Languages:** JavaScript, Python, [Your languages]
+
+**Frontend:** React, [Your frameworks/libraries]
+
+**Backend:** Node.js, [Your frameworks]
+
+**Tools & Platforms:** Git, Docker, [Your tools]
 
 ---
 
-## Contact Me
+## 🔭 Current Projects
 
-- 📫 Email: [your_email@example.com]
-- 🌐 GitHub: [Tira2003](https://github.com/Tira2003)
+- **[Project Name]** - [Brief description]
+- **[Project Name]** - [Brief description]
 
 ---
 
-## Fun Fact
+## 🌱 Currently Learning
 
-⚡ [Share a fun or quirky fact about yourself!]
+- [Technology/Framework you're learning]
+- [Technology/Framework you're learning]
+
+---
+
+## 👯 Looking to Collaborate
+
+I'm interested in collaborating on projects related to:
+- [Areas of interest]
+- [Areas of interest]
+
+Feel free to reach out if you have an interesting project in mind!
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tira2003&theme=dark&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tira2003&theme=dark&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [@Tira2003](https://github.com/Tira2003)
+- **Email:** [your_email@example.com]
+- **LinkedIn:** [Your LinkedIn profile]
+- **Twitter:** [@your_handle]
+
+---
+
+## ⚡ Fun Fact
+
+[Share something interesting about yourself - a hobby, a unique skill, or a fun achievement!]
+
+---
+
+**Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations.** 🙌
