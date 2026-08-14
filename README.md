@@ -27,19 +27,7 @@ I'm a developer focused on creating clean, efficient code and meaningful project
 
 ---
 
-## 🔭 Current Projects
 
-- **[Project Name]** - [Brief description]
-- **[Project Name]** - [Brief description]
-
----
-
-## 🌱 Currently Learning
-
-- [Technology/Framework you're learning]
-- [Technology/Framework you're learning]
-
----
 
 ## 📊 GitHub Stats
 
