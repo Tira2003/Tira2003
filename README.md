@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Tira2003
+# Hey there! 👋 I'm Tiranga Liyanage
 
 **Full Stack Developer | Tech Enthusiast | Open Source Contributor**
 
