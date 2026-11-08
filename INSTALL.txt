@@ -1,0 +1,6 @@
+Open PREVIEW.html to review the animated design.
+Upload README.md and assets/meadow.svg to the root of Tira2003/Tira2003.
+The SVG embeds a generated photographic base, plus animated text, butterflies, slow cloud drift, and subtle wind distortion. It is self-contained, but not pure vector artwork.
+No JavaScript, external fonts, or externally hosted images are required. Reduced-motion preferences disable movement.
+GitHub controls README typography and spacing; the preview uses the minimal serif presentation.
+The illustration was rendered and checked locally; the animation has not been verified on the live GitHub profile.
